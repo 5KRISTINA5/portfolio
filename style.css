@@ -77,10 +77,11 @@ li:hover {
     border-radius: 20px;
     margin-bottom: 50px;
     margin-top: 20px;
+    border: 30px dotted #D636C9;
 }
 
 .me_foto_img {
-    border: 30px double #D636C9;
+    border: 30px dotted #de47d1;
 }
 
 .sty_text {
@@ -116,4 +117,5 @@ nav {
 .telega {
     border: 1px solid black;
     border-radius: 100px;
+    margin-left: 20px;
 }
